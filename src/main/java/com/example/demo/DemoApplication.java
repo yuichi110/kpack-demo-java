@@ -17,6 +17,6 @@ public class DemoApplication {
 class Controller1 {
     @GetMapping("/")
     public String get() {
-        return "Hello CNB: New Java with Spring boot!!";
+        return "Hello CNB: Java with Spring boot!!";
     }
 }
